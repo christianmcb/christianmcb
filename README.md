@@ -39,13 +39,18 @@ https://github.com/christianmcb/pricing_ml_engine
 
 ## Research
 
-My academic work focuses on deep learning and computer vision for facial motion analysis and medical imaging.
+My research focuses on deep learning and computer vision, particularly facial motion analysis and medical image segmentation.
 
-Publications include work in:
+Selected publications:
 
-- IEEE International Symposium on Biomedical Imaging
-- Scientific Reports
-- Computers in Biology and Medicine
+- **Multi-Colour Space Channel Selection for Improved Chronic Wound Segmentation**  
+  IEEE International Symposium on Biomedical Imaging (ISBI), 2024 [https://e-space.mmu.ac.uk/638682/9/ISBI2024_author_version.pdf]
+
+- **Gaussian Random Fields as an Abstract Representation of Patient Metadata for Multimodal Medical Image Segmentation**  
+  Scientific Reports, 2025 [https://www.nature.com/articles/s41598-025-03393-x]
+
+- **Enhanced Harmonic Densely Connected Hybrid Transformer Network for Chronic Wound Segmentation**  
+  Computers in Biology and Medicine, 2025 [https://www.sciencedirect.com/science/article/pii/S0010482525005232]
 
 ---
 
