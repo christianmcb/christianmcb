@@ -44,13 +44,13 @@ My research focuses on deep learning and computer vision, particularly facial mo
 Selected publications:
 
 - **Multi-Colour Space Channel Selection for Improved Chronic Wound Segmentation**  
-  IEEE International Symposium on Biomedical Imaging (ISBI), 2024 [https://e-space.mmu.ac.uk/638682/9/ISBI2024_author_version.pdf]
+  IEEE International Symposium on Biomedical Imaging (ISBI), 2024 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10635155&casa_token=2YSkR4iDaOIAAAAA:jJ3msBWgx6SZ5lCR8W3Eyw4XARhsaGrn_RW3Mg2BVPpHn3alG7Mm92wGtDIrXIJV_QMZyboGyHs&tag=1)
 
 - **Gaussian Random Fields as an Abstract Representation of Patient Metadata for Multimodal Medical Image Segmentation**  
-  Scientific Reports, 2025 [https://www.nature.com/articles/s41598-025-03393-x]
+  Scientific Reports, 2025 [Link](https://www.nature.com/articles/s41598-025-03393-x)
 
 - **Enhanced Harmonic Densely Connected Hybrid Transformer Network for Chronic Wound Segmentation**  
-  Computers in Biology and Medicine, 2025 [https://www.sciencedirect.com/science/article/pii/S0010482525005232]
+  Computers in Biology and Medicine, 2025 [Link](https://www.sciencedirect.com/science/article/pii/S0010482525005232)
 
 ---
 
