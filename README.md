@@ -35,6 +35,14 @@ Tech stack: Python, Scikit-learn, XGBoost, LightGBM, Docker, FastAPI
 GitHub:  
 https://github.com/christianmcb/pricing_ml_engine
 
+### U-Net Segmentation Evaluation
+Training and evaluation deep learning pipeline for medical image segmentation, including image processing, extensive experimentation and validation.
+
+Tech stack: Python, PyTorch, OpenCV
+
+GitHub:  
+https://github.com/christianmcb/pytorch-unet-segmentation
+
 ---
 
 ## Research
