@@ -32,15 +32,20 @@ End-to-end ML pipeline for pricing prediction including feature engineering, cro
 
 Tech stack: Python, Scikit-learn, XGBoost, LightGBM, Docker, FastAPI
 
-GitHub:  
 https://github.com/christianmcb/pricing_ml_engine
 
+### Demand Forecasting ML System  
+End-to-end demand forecasting pipeline for retail sales prediction including time-based validation, feature engineering, model comparison and experiment tracking, with batch inference workflows and a containerised API for deployment.  
+
+Tech stack: Python, Pandas, Scikit-learn, LightGBM, MLflow, FastAPI, Docker  
+
+https://github.com/christianmcb/demand_forecasting_ml
+
 ### U-Net Segmentation Evaluation
-Training and evaluation deep learning pipeline for medical image segmentation, including image processing, extensive experimentation and validation.
+Training and evaluation deep learning pipeline for medical image segmentation, including image processing, extensive experimentation and validation.  
 
-Tech stack: Python, PyTorch, OpenCV
+Tech stack: Python, PyTorch, OpenCV 
 
-GitHub:  
 https://github.com/christianmcb/pytorch-unet-segmentation
 
 ---
