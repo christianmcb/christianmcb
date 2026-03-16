@@ -48,6 +48,14 @@ Tech stack: Python, PyTorch, OpenCV
 
 https://github.com/christianmcb/pytorch-unet-segmentation
 
+### Investment Research Copilot
+
+Automated investment research pipeline that collects fund holdings, enriches company metadata, aggregates market data and news, and generates structured research reports for portfolio analysis. Includes an interactive Streamlit dashboard for exploring fund positions, attribution, sector exposure and recent developments affecting portfolio companies.  
+
+Tech stack: Python, Pandas, Web Scraping, Financial APIs, Streamlit, LLM Integration  
+
+https://investmentresearchcopilot-btmptvaly25gzuqxikzupk.streamlit.app
+
 ---
 
 ## Research
