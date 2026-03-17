@@ -56,6 +56,14 @@ Tech stack: Python, Pandas, Web Scraping, Financial APIs, Streamlit, LLM Integra
 
 https://investmentresearchcopilot-btmptvaly25gzuqxikzupk.streamlit.app
 
+### Deeploi
+
+Lightweight ML deployment framework enabling one-line conversion of trained sklearn and XGBoost models into production-ready FastAPI services, with automatic schema inference and prediction endpoints.
+
+Tech stack: Python, Scikit-learn, XGBoost, FastAPI, Pydantic, Docker  
+
+https://github.com/christianmcb/deeploi  
+
 ---
 
 ## Research
