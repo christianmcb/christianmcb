@@ -27,6 +27,14 @@ CUDA, Parallel Computing
 
 ## Featured Projects
 
+### Deeploi
+
+Lightweight ML deployment framework that turns trained scikit-learn and XGBoost models into production-ready FastAPI services with minimal setup. Includes automatic schema inference, reusable packaging, interactive API testing, optional authentication, and Docker-ready deployment for quickly moving models from experimnentation to shareable services.
+
+Tech stack: Python, Scikit-learn, XGBoost, FastAPI, Pydantic, Docker  
+
+https://github.com/christianmcb/deeploi
+
 ### Pricing ML Engine
 End-to-end ML pipeline for pricing prediction including feature engineering, cross-validation, model comparison and Dockerised API deployment.
 
@@ -55,14 +63,6 @@ Automated investment research pipeline that collects fund holdings, enriches com
 Tech stack: Python, Pandas, Web Scraping, Financial APIs, Streamlit, LLM Integration  
 
 https://investmentresearchcopilot-btmptvaly25gzuqxikzupk.streamlit.app
-
-### Deeploi
-
-Lightweight ML deployment framework enabling one-line conversion of trained sklearn and XGBoost models into production-ready FastAPI services, with automatic schema inference and prediction endpoints.
-
-Tech stack: Python, Scikit-learn, XGBoost, FastAPI, Pydantic, Docker  
-
-https://github.com/christianmcb/deeploi  
 
 ---
 
