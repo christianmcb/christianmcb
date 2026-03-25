@@ -29,7 +29,7 @@ CUDA, Parallel Computing
 
 ### Deeploi
 
-Lightweight ML deployment framework that turns trained scikit-learn and XGBoost models into production-ready FastAPI services with minimal setup. Includes automatic schema inference, reusable packaging, interactive API testing, optional authentication, and Docker-ready deployment for quickly moving models from experimnentation to shareable services.
+Lightweight ML deployment framework that turns trained scikit-learn and XGBoost models into production-ready FastAPI services with minimal setup. Includes automatic schema inference, reusable packaging, interactive API testing, optional authentication, and Docker-ready deployment for quickly moving models from experimentation to shareable services.
 
 Tech stack: Python, Scikit-learn, XGBoost, FastAPI, Pydantic, Docker  
 
