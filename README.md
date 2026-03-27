@@ -1,91 +1,98 @@
 # Christian McBride
 
-Machine Learning Engineer focused on building end-to-end ML systems, deep learning models, and scalable data pipelines.
+Machine Learning Engineer building end-to-end ML systems with a focus on reproducible experimentation, robust evaluation, and deployable APIs.
 
-I have experience developing computer vision models, structured ML pipelines, and deployable machine learning APIs using Python and modern ML frameworks.
+My background spans computer vision, tabular ML, and self-supervised learning. I’ve built PyTorch research pipelines, production-style FastAPI services, and ML tooling designed to make models easier to train, evaluate, and deploy.
 
----
+## What I work on
 
-## Core Skills
+- End-to-end ML systems, from training pipelines to deployed inference
+- Reliable evaluation and validation, especially where data leakage or weak experimental design can mislead results
+- Applied computer vision and self-supervised learning
+- Lightweight ML tooling that helps bridge the gap between experimentation and usable software
 
-**Languages**
-Python, SQL, R, C#
 
-**Machine Learning**
-PyTorch, Scikit-learn, XGBoost, LightGBM
-
-**Data**
-Pandas, NumPy, OpenCV, PySpark
-
-**Deployment**
-Docker, FastAPI
-
-**Engineering**
-CUDA, Parallel Computing
-
----
-
-## Featured Projects
+## Featured projects
 
 ### Deeploi
+A lightweight ML deployment framework for turning trained models into FastAPI services with minimal setup.
 
-Lightweight ML deployment framework that turns trained scikit-learn and XGBoost models into production-ready FastAPI services with minimal setup. Includes automatic schema inference, reusable packaging, interactive API testing, optional authentication, and Docker-ready deployment for quickly moving models from experimentation to shareable services.
+Why it matters:
+- Designed to reduce the friction between model training and usable deployment
+- Includes schema inference, packaging, and Docker-ready serving
+- Built around the idea that deployment should be simple by default, not an MLOps project in itself
 
-Tech stack: Python, Scikit-learn, XGBoost, FastAPI, Pydantic, Docker  
-
-https://github.com/christianmcb/deeploi
-
-### Pricing ML Engine
-End-to-end ML pipeline for pricing prediction including feature engineering, cross-validation, model comparison and Dockerised API deployment.
-
-Tech stack: Python, Scikit-learn, XGBoost, LightGBM, Docker, FastAPI
-
-https://github.com/christianmcb/pricing_ml_engine
-
-### Demand Forecasting ML System  
-End-to-end demand forecasting pipeline for retail sales prediction including time-based validation, feature engineering, model comparison and experiment tracking, with batch inference workflows and a containerised API for deployment.  
-
-Tech stack: Python, Pandas, Scikit-learn, LightGBM, MLflow, FastAPI, Docker  
-
-https://github.com/christianmcb/demand_forecasting_ml
-
-### U-Net Segmentation Evaluation
-Training and evaluation deep learning pipeline for medical image segmentation, including image processing, extensive experimentation and validation.  
-
-Tech stack: Python, PyTorch, OpenCV 
-
-https://github.com/christianmcb/pytorch-unet-segmentation
-
-### Investment Research Copilot
-
-Automated investment research pipeline that collects fund holdings, enriches company metadata, aggregates market data and news, and generates structured research reports for portfolio analysis. Includes an interactive Streamlit dashboard for exploring fund positions, attribution, sector exposure and recent developments affecting portfolio companies.  
-
-Tech stack: Python, Pandas, Web Scraping, Financial APIs, Streamlit, LLM Integration  
-
-https://investmentresearchcopilot-btmptvaly25gzuqxikzupk.streamlit.app
+**Tech:** Python, FastAPI, Pydantic, scikit-learn, XGBoost, Docker  
+**Repo:** https://github.com/christianmcb/deeploi
 
 ---
+
+### Pricing ML Engine
+An end-to-end ML pipeline for cross-sell prediction, covering feature engineering, model comparison, hyperparameter tuning, and deployable inference.
+
+Highlights:
+- Benchmarked RandomForest, XGBoost, and LightGBM
+- Achieved **ROC-AUC 0.858**
+- Includes FastAPI deployment, model registry, reproducibility, and drift monitoring
+
+**Tech:** Python, scikit-learn, XGBoost, LightGBM, FastAPI, Docker  
+**Repo:** https://github.com/christianmcb/pricing_ml_engine
+
+---
+
+### Demand Forecasting ML System
+A retail forecasting pipeline built around time-based validation, feature engineering, experiment tracking, and batch inference workflows.
+
+Highlights:
+- Chronological validation for realistic forecasting
+- MLflow-based experiment tracking
+- Containerised API layer for deployment
+
+**Tech:** Python, Pandas, LightGBM, MLflow, FastAPI, Docker  
+**Repo:** https://github.com/christianmcb/demand_forecasting_ml
+
+---
+
+### U-Net Segmentation Evaluation
+A deep learning pipeline for medical image segmentation, focused on training, evaluation, and reproducible experimentation.
+
+Highlights:
+- Built around practical experimentation rather than a single model script
+- Includes image processing and evaluation workflows used in published work
+
+**Tech:** Python, PyTorch, OpenCV  
+**Repo:** https://github.com/christianmcb/pytorch-unet-segmentation
+
+---
+
+### Investment Research Copilot
+An automated research workflow for portfolio analysis, combining holdings ingestion, company enrichment, market data, news aggregation, and structured reporting.
+
+Highlights:
+- Pulls together multiple data sources into a single research workflow
+- Includes a Streamlit interface for exploring positions, attribution, sector exposure, and recent developments
+
+**Tech:** Python, Pandas, Streamlit, financial APIs, LLM integration  
+**Demo:** https://investmentresearchcopilot-btmptvaly25gzuqxikzupk.streamlit.app
 
 ## Research
 
-My research focuses on deep learning and computer vision, particularly facial motion analysis and medical image segmentation.
+My research has focused on self-supervised learning, facial motion analysis, and medical image segmentation.
 
 Selected publications:
+- **Multi-Colour Space Channel Selection for Chronic Wound Segmentation** — ISBI 2024 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10635155&casa_token=2YSkR4iDaOIAAAAA:jJ3msBWgx6SZ5lCR8W3Eyw4XARhsaGrn_RW3Mg2BVPpHn3alG7Mm92wGtDIrXIJV_QMZyboGyHs&tag=1)
+- **Gaussian Random Fields as an Abstract Representation of Patient Metadata for Multimodal Medical Image Segmentation** — Scientific Reports, 2025 [Link](https://www.nature.com/articles/s41598-025-03393-x)
+- **Enhanced Harmonic Densely Connected Hybrid Transformer Network for Chronic Wound Segmentation** — Computers in Biology and Medicine, 2025 [Link](https://www.sciencedirect.com/science/article/pii/S0010482525005232)
 
-- **Multi-Colour Space Channel Selection for Improved Chronic Wound Segmentation**  
-  IEEE International Symposium on Biomedical Imaging (ISBI), 2024 [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10635155&casa_token=2YSkR4iDaOIAAAAA:jJ3msBWgx6SZ5lCR8W3Eyw4XARhsaGrn_RW3Mg2BVPpHn3alG7Mm92wGtDIrXIJV_QMZyboGyHs&tag=1)
+## Current focus
 
-- **Gaussian Random Fields as an Abstract Representation of Patient Metadata for Multimodal Medical Image Segmentation**  
-  Scientific Reports, 2025 [Link](https://www.nature.com/articles/s41598-025-03393-x)
+Right now I’m especially interested in:
+- ML engineering for real products
+- evaluation tooling and reproducibility
+- deployment frameworks and inference systems
+- computer vision and modern applied ML
 
-- **Enhanced Harmonic Densely Connected Hybrid Transformer Network for Chronic Wound Segmentation**  
-  Computers in Biology and Medicine, 2025 [Link](https://www.sciencedirect.com/science/article/pii/S0010482525005232)
+## Links
 
----
-
-## Interests
-
-Machine Learning Engineering  
-Computer Vision  
-Model Deployment  
-Scalable ML Pipelines
+- LinkedIn: https://www.linkedin.com/in/christianmcb8/
+- GitHub: https://github.com/christianmcb
