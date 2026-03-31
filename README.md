@@ -1,8 +1,9 @@
 # Christian McBride
 
-Machine Learning Engineer building end-to-end ML systems with a focus on reproducible experimentation, robust evaluation, and deployable APIs.
+Data Scientist and Machine Learning Engineer building predictive models and end-to-end ML systems with a focus on reproducible experimentation, robust evaluation, and practical delivery.
 
-My background spans computer vision, tabular ML, and self-supervised learning. I’ve built PyTorch research pipelines, production-style FastAPI services, and ML tooling designed to make models easier to train, evaluate, and deploy.
+My background spans tabular ML, forecasting, computer vision, and self-supervised learning. I’ve built research pipelines, analytical workflows, and production-style services designed to make models easier to train, evaluate, and use in practice.
+
 
 ## What I work on
 
